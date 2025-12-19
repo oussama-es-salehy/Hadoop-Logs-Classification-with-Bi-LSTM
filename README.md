@@ -77,7 +77,7 @@ Output Layer (3 classes, Softmax)
 ---
 
 ## 📊 Dataset
-
+[Link Text](https://github.com/logpai/loghub/blob/20168f0fc076be8a75d22c01896076090d4a3c6e/Hadoop/Hadoop_2k.log_structured.csv)
 ### Data Source
 - **File**: `Hadoop_2k.log_structured.csv`
 - **Total Records**: 2,000 log entries
